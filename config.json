@@ -1,0 +1,21 @@
+{
+    "cantidad" : 20,
+    "algoritmos" : [{
+        "nombre": "Secuenciador",
+        "tipo" : 1
+    },
+    {
+        "nombre": "Fibonacci",
+        "tipo" : 2
+    },
+    {
+        "nombre": "Factorial",
+        "tipo" : 3
+    },
+    {
+        "nombre": "Binario",
+        "tipo" : 4
+    }
+    
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "pruebanodejs",
+  "version": "1.0.0",
+  "description": "Prueba de nodejs",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavarino/pruebanodejs.git"
+  },
+  "author": "Javier Chavarino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chavarino/pruebanodejs/issues"
+  },
+  "homepage": "https://github.com/chavarino/pruebanodejs#readme",
+  "keywords": [],
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
